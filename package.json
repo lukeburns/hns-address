@@ -1,0 +1,16 @@
+{
+  "name": "hns-address",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypto": "^5.4.0",
+    "bsert": "^0.0.10",
+    "bufio": "^1.0.7"
+  }
+}
